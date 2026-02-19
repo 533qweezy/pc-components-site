@@ -1,0 +1,20 @@
+pc-site/
+│
+├── index.html
+├── components.html
+├── builds.html
+│
+├── cpu.html
+├── gpu.html
+├── storage.html
+│
+├── css/
+│   └── style.css
+│
+├── images/
+│   ├── cpu.jpg
+│   ├── gpu.jpg
+│   └── pc-build.jpg
+│
+└── video/
+    └── pc-build.mp4
